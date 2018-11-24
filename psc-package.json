@@ -1,0 +1,9 @@
+{
+    "name": "purescript-globals",
+    "set": "clj-0.2.0",
+    "source": "https://github.com/pure-clj/package-sets.git",
+    "depends": [
+        "assert",
+        "console"
+    ]
+}
